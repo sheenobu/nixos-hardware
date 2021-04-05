@@ -68,6 +68,7 @@
       lenovo-thinkpad-x13-yoga = import ./lenovo/thinkpad/x13-yoga;
       microsoft-surface = import ./microsoft/surface;
       microsoft-surface-pro-3 = import ./microsoft/surface-pro/3;
+      mnt-reform2-nitrogen8m = import ./mnt/reform2-nitrogen8m;
       pcengines-apu = import ./pcengines/apu;
       raspberry-pi-2 = import ./raspberry-pi/2;
       samsung-np900x3c = import ./samsung/np900x3c;

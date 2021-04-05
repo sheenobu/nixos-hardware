@@ -131,6 +131,7 @@ See code for all available configurations.
 | Lenovo ThinkPad X1 Extreme Gen 2  | `<nixos-hardware/lenovo/thinkpad/x1-extreme/gen2>` |
 | [Microsoft Surface Range][]       | `<nixos-hardware/microsoft/surface>`               |
 | [Microsoft Surface Pro 3][]       | `<nixos-hardware/microsoft/surface-pro/3>`         |
+| [MNT Reform (i.MX8M)][]           | `<nixos-hardware/mnt/reform2-nitrogen8m>`          |
 | [MSI GS60 2QE][]                  | `<nixos-hardware/msi/gs60>`                        |
 | PC Engines APU                    | `<nixos-hardware/pcengines/apu>`                   |
 | [Raspberry Pi 2][]                | `<nixos-hardware/raspberry-pi/2>`                  |
